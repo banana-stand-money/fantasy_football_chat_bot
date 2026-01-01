@@ -32,6 +32,7 @@ Schedule Link: https://www.gamedaybot.com/message-schedule/
 - Matchups - Thu - 19:30 east coast time (Upcoming matchups)
 - Players to Monitor report - Sun - 7:30 local time (Players in starting lineup that are Questionable, Doubtful, or Out)
 - Scoreboard - Sun - 16:00, 20:00 east coast time (Current ESPN fantasy scoreboard)
+- messing with this
 
 
 Table of Contents
